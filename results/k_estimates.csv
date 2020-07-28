@@ -1,0 +1,2 @@
+Id,Av,um_per_pixel,FilePath,Fitted_k_div_2pi_all(mm),Fitted_k_div_2pi_middle(mm),Fitted_k_pixel_all,Fitted_k_pixel_middle
+sample_01,3.375,1.24296,./data/train/sample_01.jpg,0.052561359718061716,0.034990965571509366,265.6986251415221,176.8799645708103

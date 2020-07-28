@@ -1,0 +1,94 @@
+<Annotations>
+	<Annotation Id="1" Name="" ReadOnly="0" NameReadOnly="0" LineColorReadOnly="0" Incremental="0" Type="4" LineColor="16711935" Visible="1" Selected="0" MarkupImagePath="" MacroName="">
+		<Attributes>
+			<Attribute Name="Description" Id="0" Value=""/>
+		</Attributes>
+		<Regions>
+			<RegionAttributeHeaders>
+				<AttributeHeader Id="9999" Name="Region" ColumnWidth="-1"/>
+				<AttributeHeader Id="9997" Name="Length" ColumnWidth="-1"/>
+				<AttributeHeader Id="9996" Name="Area" ColumnWidth="-1"/>
+				<AttributeHeader Id="9998" Name="Text" ColumnWidth="-1"/>
+				<AttributeHeader Id="1" Name="Description" ColumnWidth="-1"/>
+			</RegionAttributeHeaders>
+		</Regions>
+		<Plots/>
+	</Annotation>
+	<Annotation Id="2" Name="Origin" ReadOnly="0" NameReadOnly="0" LineColorReadOnly="1" Incremental="0" Type="9" LineColor="16711935" Visible="1" Selected="0" MarkupImagePath="" MacroName="">
+		<InputAnnotationId>1</InputAnnotationId>
+		<Attributes>
+			<Attribute Name="Description" Id="0" Value=""/>
+		</Attributes>
+		<Regions>
+			<RegionAttributeHeaders>
+				<AttributeHeader Id="9999" Name="Region" ColumnWidth="-1"/>
+				<AttributeHeader Id="9997" Name="Length" ColumnWidth="-1"/>
+				<AttributeHeader Id="9996" Name="Area" ColumnWidth="-1"/>
+				<AttributeHeader Id="9998" Name="Text" ColumnWidth="-1"/>
+				<AttributeHeader Id="1" Name="Description" ColumnWidth="-1"/>
+			</RegionAttributeHeaders>
+			<Region Id="1" Type="5" Zoom="1" Selected="1" ImageLocation="" ImageFocus="-1" Length="0.0" Area="0.0" Text="" NegativeROA="0" InputRegionId="0" Analyze="0" DisplayId="1">
+				<Attributes/>
+				<Vertices>
+					<Vertex X="2378" Y="2337" Z="0"/>
+				</Vertices>
+			</Region>
+		</Regions>
+		<Plots/>
+	</Annotation>
+	<Annotation Id="3" Name="" ReadOnly="0" NameReadOnly="0" LineColorReadOnly="0" Incremental="0" Type="4" LineColor="65535" Visible="1" Selected="0" MarkupImagePath="" MacroName="">
+		<Attributes>
+			<Attribute Name="Description" Id="0" Value=""/>
+		</Attributes>
+		<Regions>
+			<RegionAttributeHeaders>
+				<AttributeHeader Id="9999" Name="Region" ColumnWidth="-1"/>
+				<AttributeHeader Id="9997" Name="Length" ColumnWidth="-1"/>
+				<AttributeHeader Id="9996" Name="Area" ColumnWidth="-1"/>
+				<AttributeHeader Id="9998" Name="Text" ColumnWidth="-1"/>
+				<AttributeHeader Id="1" Name="Description" ColumnWidth="-1"/>
+			</RegionAttributeHeaders>
+		</Regions>
+		<Plots/>
+	</Annotation>
+	<Annotation Id="4" Name="Median_Points" ReadOnly="0" NameReadOnly="0" LineColorReadOnly="1" Incremental="0" Type="9" LineColor="65535" Visible="1" Selected="1" MarkupImagePath="" MacroName="">
+		<InputAnnotationId>3</InputAnnotationId>
+		<Attributes>
+			<Attribute Name="Description" Id="0" Value=""/>
+		</Attributes>
+		<Regions>
+			<RegionAttributeHeaders>
+				<AttributeHeader Id="9999" Name="Region" ColumnWidth="-1"/>
+				<AttributeHeader Id="9997" Name="Length" ColumnWidth="-1"/>
+				<AttributeHeader Id="9996" Name="Area" ColumnWidth="-1"/>
+				<AttributeHeader Id="9998" Name="Text" ColumnWidth="-1"/>
+				<AttributeHeader Id="1" Name="Description" ColumnWidth="-1"/>
+			</RegionAttributeHeaders>
+			<Region Id="1" Type="5" Zoom="1" Selected="0" ImageLocation="" ImageFocus="-1" Length="0.0" Area="0.0" Text="" NegativeROA="0" InputRegionId="0" Analyze="0" DisplayId="1">
+				<Attributes/>
+				<Vertices>
+					<Vertex X="2154" Y="222" Z="0"/>
+				</Vertices>
+			</Region>
+			<Region Id="2" Type="5" Zoom="1" Selected="0" ImageLocation="" ImageFocus="-1" Length="0.0" Area="0.0" Text="" NegativeROA="0" InputRegionId="0" Analyze="0" DisplayId="2">
+				<Attributes/>
+				<Vertices>
+					<Vertex X="244" Y="2322" Z="0"/>
+				</Vertices>
+			</Region>
+			<Region Id="3" Type="5" Zoom="1" Selected="0" ImageLocation="" ImageFocus="-1" Length="0.0" Area="0.0" Text="" NegativeROA="0" InputRegionId="0" Analyze="0" DisplayId="3">
+				<Attributes/>
+				<Vertices>
+					<Vertex X="2354" Y="4518" Z="0"/>
+				</Vertices>
+			</Region>
+			<Region Id="4" Type="5" Zoom="1" Selected="1" ImageLocation="" ImageFocus="-1" Length="0.0" Area="0.0" Text="" NegativeROA="0" InputRegionId="0" Analyze="0" DisplayId="4">
+				<Attributes/>
+				<Vertices>
+					<Vertex X="4630" Y="1979" Z="0"/>
+				</Vertices>
+			</Region>
+		</Regions>
+		<Plots/>
+	</Annotation>
+</Annotations>

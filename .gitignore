@@ -1,0 +1,7 @@
+Thumbs.db
+Thumbs.db:encryptable
+
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+
