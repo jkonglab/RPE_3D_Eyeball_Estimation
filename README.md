@@ -27,4 +27,4 @@ This user interface [`r_estimator.mlapp`](./RPE_Radius_Estimation_MATLAB_GUI/r_e
 
 ## Reference
 
-Reference information to be added.
+Hongxiao Li, Hanyi Yu, Yong-Kyu Kim, Fusheng Wang, George Teodoro, Yi Jiang, John M. Nickerson, Jun Kong; Computational Model-Based Estimation of Mouse Eyeball Structure From Two-Dimensional Flatmount Microscopy Images. Trans. Vis. Sci. Tech. 2021;10(4):25. doi: https://doi.org/10.1167/tvst.10.4.25.
